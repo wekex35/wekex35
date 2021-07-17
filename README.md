@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=wekex35&count_private=true)
+
 <!--
 **wekex35/wekex35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
